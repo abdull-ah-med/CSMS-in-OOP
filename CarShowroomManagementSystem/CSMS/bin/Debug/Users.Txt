@@ -1,0 +1,4 @@
+Adminname,AdminID,Adminpass,Admincontact,Admin
+Abdullah Ahmed,Abdullah,Lahore12.,abdullahahmed@gmail.com,Customer
+Faizan Ahmed,FaizanSales,Lahore12.,faizansalescontact@gmail.com,Employee
+,A,A,,Customer

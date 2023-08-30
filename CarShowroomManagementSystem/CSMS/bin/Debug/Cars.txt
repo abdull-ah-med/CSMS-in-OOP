@@ -1,0 +1,4 @@
+Honda Civic,White,RS Turbo,8400000,3,7,True
+Honda CHR,Pearl Black,1.5 PHV Turbo,12000000,5,10,True
+Honda Vezel,White,1.5 Hybrid,11500000,4,8,True
+Honda Insight,Black,1.8 PHV ,16000000,5,10,True
